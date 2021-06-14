@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="addressbook.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-14T02:08:35" hostname="SAMRAT" time="0.092">
+  <properties/>
+  <testcase name="given2EmployeeDetails_whenWrittenToFile_ShouldMatchWithEntries()" classname="addressbook.AddressBookTest" time="0.092"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
